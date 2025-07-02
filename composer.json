@@ -13,7 +13,7 @@
     "api",
     "heatmap"
   ],
-  "homepage": "https://github.com/basvijfwinkel/OpenStreetMapStaticAPIHeatmap",
+  "homepage": "https://github.com/basvijfwinkel/php-osm-static-api-heatmap",
   "license": "MIT",
   "authors": [
     {
