@@ -1,5 +1,5 @@
 {
-  "name": "openstreetmapstaticapiheatmap/openstreetmapstaticapiheatmap",
+  "name": "phposmstaticapiheatmap/phposmstaticapiheatmap",
   "type": "library",
   "description": "PHP library to easily get static image from OpenStreetMap (OSM), add markers, draw lines and heatmap support.",
   "keywords": [
