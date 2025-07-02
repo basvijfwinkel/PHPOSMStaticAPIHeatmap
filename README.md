@@ -8,3 +8,7 @@ and added the ability to add a heatmap to the static image.
 
 Heatmap code and resources based on :
 https://github.com/xird/gd-heatmap/blob/master/gd_heatmap.php
+
+Install :
+composer require phposmstaticapiheatmap/phposmstaticapiheatmap
+
