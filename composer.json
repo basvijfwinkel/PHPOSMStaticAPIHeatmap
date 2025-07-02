@@ -1,0 +1,30 @@
+{
+  "name": "openstreetmapstaticapiheatmap/openstreetmapstaticapiheatmap",
+  "type": "library",
+  "description": "PHP library to easily get static image from OpenStreetMap (OSM), add markers, draw lines and heatmap support.",
+  "keywords": [
+    "php",
+    "osm",
+    "openstreetmap",
+    "map",
+    "static",
+    "image",
+    "maps",
+    "api",
+    "heatmap"
+  ],
+  "homepage": "https://github.com/basvijfwinkel/OpenStreetMapStaticAPIHeatmap",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Bas Vijfwinkel",
+      "homepage": "https://github.com/basvijfwinkel",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "OpenStreetMapStaticAPIHeatmap\\": "src/"
+    }
+  }
+}
